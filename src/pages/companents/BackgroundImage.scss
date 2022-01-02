@@ -1,0 +1,17 @@
+.background-image{
+    position: fixed;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    > img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        image-rendering: pixelated;
+        transition: .5s opacity;
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2016",
+        "outDir": "./Server",
+        "removeComments": true,
+        "charset": "UTF-8",
+        "watch": true,
+        "moduleResolution": "node",
+        "isolatedModules": true,
+        "module": "CommonJS",
+    }
+}

@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Cantarell";
+    src: url("Cantarell-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: bold;
+}
+@font-face {
+    font-family: "Cantarell";
+    src: url("Cantarell-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Cantarell";
+    src: url("Cantarell-Oblique.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Cantarell";
+    src: url("Cantarell-BoldOblique.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
